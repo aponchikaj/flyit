@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@font-face {
+    font-family: 'main';
+    src: url('/fonts/ByteBounce.ttf');
+}
+
+@theme{
+    --font-sans:'main';
+}
